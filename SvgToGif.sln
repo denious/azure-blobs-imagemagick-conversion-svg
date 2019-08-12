@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgToGif", "SvgToGif\SvgToGif.csproj", "{91013F61-2E78-4AC6-9510-515D36E5CA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91013F61-2E78-4AC6-9510-515D36E5CA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91013F61-2E78-4AC6-9510-515D36E5CA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91013F61-2E78-4AC6-9510-515D36E5CA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91013F61-2E78-4AC6-9510-515D36E5CA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54AC0871-F65C-416C-BD4C-5BC188D12A22}
+	EndGlobalSection
+EndGlobal
